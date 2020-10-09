@@ -8,7 +8,7 @@ public class FormulaProvider {
      * @param shape type of the shape of the requested formula
      * @return area formula
      */
-    public static String getAreaForShape(String shape) {
+    public static String getAreaForShape(int shape) {
         return "";
     }
 
@@ -18,7 +18,7 @@ public class FormulaProvider {
      * @param shape type of the shape of the requested formula
      * @return perimeter formula
      */
-    public static String getPerimeterForShape(String shape) {
+    public static String getPerimeterForShape(int shape) {
         return "";
     }
 }
